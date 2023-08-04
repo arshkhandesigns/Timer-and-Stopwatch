@@ -1,0 +1,17 @@
+  body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  .timer-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  .timer {
+    font-size: 2rem;
+    margin: 0 10px;
+  }
+  .buttons {
+    margin-top: 20px;
+  }
